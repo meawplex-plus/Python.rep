@@ -1,6 +1,6 @@
 print("Welcome to I Aged....")
 
-age = int(input("Input your age - INTEGERS ONLY! Age: "))
+age = int(input("Input your age - NATURAL NUMBERS ONLY! Age: "))
 if age < 0:
     print("Invalid value   Program failed")
 else:
